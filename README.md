@@ -1,6 +1,6 @@
 # Hi, I'm Sarah 👋
 
-I am a recent [Turing School of Software & Design](https://turing.io/) frontend engineering grad 🎓️ 
+I am a recent [Turing School of Software & Design](https://turing.io/) frontend engineering grad.
 
 Tech Stacks:
    - Languages: HTML, CSS, JavaScript, GraphQL, Ruby
