@@ -1,5 +1,8 @@
-# Hi, Sarah here!
+# Hi, I'm Sarah 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahrudy&count_private=true&show_icons=true&theme=dracula&hide=stars)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahrudy&show_icons=true&theme=dracula)
 Pronouns: she/her 
 
 I'm currently working on developer portfolio webpage to showcase my projects! Coming soon at sarahrudy.dev! 
@@ -23,6 +26,3 @@ Technologies:
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/rudysarah/) and let's set up a coffee chat!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahrudy&count_private=true&show_icons=true&theme=dracula&hide=stars)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahrudy&show_icons=true&theme=dracula)
