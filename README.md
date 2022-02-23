@@ -12,7 +12,7 @@ How to reach me: sarahrudy@gmail.com
 
 Technologies:
 
-<p align="center">
+<p>
   <img alt="React" src="https://img.shields.io/badge/React-flat--square?logo=react&style=for-the-badge&color=black"/>
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-flat--square?logo=javascript&style=for-the-badge&color=black"/>
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-flat--square?logo=ruby&style=for-the-badge&color=black"/>
