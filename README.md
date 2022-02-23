@@ -6,7 +6,7 @@
 
 Pronouns: she/her 
 
-I'm currently working on developer portfolio webpage to showcase my projects! Coming soon at sarahrudy.dev! 
+I'm currently working on a developer portfolio webpage to showcase my projects -- coming soon to sarahrudy.dev
 
 How to reach me: sarahrudy@gmail.com
 
