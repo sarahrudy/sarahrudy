@@ -24,18 +24,14 @@ Technologies:
 - ![Cypress](https://img.shields.io/badge/cypress-04C38E.svg?&style=for-the-badge&logo=cypress&logoColor=white)
 
 - ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-flat--square?logo=react&style=for-the-badge&color=black"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-flat--square?logo=javascript&style=for-the-badge&color=black"/>
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-flat--square?logo=ruby&style=for-the-badge&color=black"/>
-  <img alt="PostgreSQL" src ="https://img.shields.io/badge/Postgres-flat--square?logo=postgresql&style=for-the-badge&color=black"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-flat--square?logo=git&style=for-the-badge&color=black"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-flat--square?logo=heroku&style=for-the-badge&color=black"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-flat--square?logo=html5&style=for-the-badge&color=black"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-flat--square?logo=css3&style=for-the-badge&color=black"/>
-</p>
 
-<hr>
+- ![CSS](https://img.shields.io/badge/CSS3-flat--square?logo=css3&style=for-the-badge&color=black)
+
+- ![Heroku](https://img.shields.io/badge/Heroku-flat--square?logo=heroku&style=for-the-badge&color=blue)
+
+- ![Git](https://img.shields.io/badge/Git-flat--square?logo=git&style=for-the-badge&color=black)
+
+- ![Ruby](https://img.shields.io/badge/Ruby-flat--square?logo=ruby&style=for-the-badge&color=black)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/rudysarah/) and let's set up a coffee chat!
 
