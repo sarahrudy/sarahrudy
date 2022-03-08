@@ -27,5 +27,3 @@ Technologies:
 
 - ![Ruby](https://img.shields.io/badge/Ruby-flat--square?logo=ruby&style=for-the-badge&color=black)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/rudysarah/)
-
